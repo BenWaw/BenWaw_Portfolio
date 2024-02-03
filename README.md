@@ -42,7 +42,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-# 📋  na temat projektu<"about-the-project"></a>
+# 📋  na temat projektu<a name="about-the-project"></a>
 
 Chcę jakoś fajnie zaprezentować swoją pracę. Gdy skończę robić stronę, na pewno więcej tu napiszę.
 
